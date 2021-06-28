@@ -1,6 +1,6 @@
 # i_am_poor
 
-A new Flutter project.
+Same as I-Am-Rich app just image was changed.
 
 ## Getting Started
 
